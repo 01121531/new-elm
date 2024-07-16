@@ -1,5 +1,4 @@
 /**
- * @平行绳 飞机频道：https://t.me/tigerorrose
  * 变量：ownerId: 自己二维码里面的 inviterId 字段
  * 变量：ELE_FANLI_TIME：配置 邀请好友的间隔时间，格式 1-10，随机延时1到 10 秒
  * 变量：ELE_UA：饿了么域名请求头里面的 user-agent
